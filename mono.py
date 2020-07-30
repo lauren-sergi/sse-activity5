@@ -1,3 +1,5 @@
+# script for sse activity
+
 # for changing the output text colour in terminal
 class bcolors:
     HEADER 	= 	'\033[95m'

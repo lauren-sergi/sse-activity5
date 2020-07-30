@@ -1,4 +1,4 @@
-# script for sse activity
+# python script for sse activity
 
 # for changing the output text colour in terminal
 class bcolors:

@@ -1,2 +1,4 @@
 here is a simple txt file for testing purposes
 just some text
+
+this is another line of text in the file

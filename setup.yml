@@ -21,3 +21,10 @@ workflows:
     jobs:
       - build
       - test
+
+
+test:
+  os: windows
+  version: 10
+  - name: john smith
+    age: 25

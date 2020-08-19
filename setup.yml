@@ -14,6 +14,8 @@ jobs:
     steps:
       - checkout
       - run: my-command
+    steps:
+      - idkman
 
 # Orchestrate our job run sequence
 workflows:

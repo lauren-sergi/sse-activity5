@@ -8,6 +8,8 @@ jobs:
     steps:
       - checkout
       - run: my-command
+    steps:
+      - checkout
   test:
     docker:
       - image: circleci/<language>:<version TAG>
@@ -29,3 +31,11 @@ test:
   details:
     - name: john smith
       age: 25
+
+another:
+  fruit:
+    - orange
+    - grape
+      vegetables:
+        - tasty
+        - yum

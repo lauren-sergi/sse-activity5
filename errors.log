@@ -1,0 +1,6 @@
+Failed to load the Yaml file "/Users/lauren/Documents/github-testing/sse-activity5/setup.yml:37"
+bad indentation of a sequence entry at line 37, column 17:
+          vegetables:
+                    ^
+Yaml format related errors in 1 files
+Total of 0 structure validation error(s)

@@ -26,5 +26,6 @@ workflows:
 test:
   os: windows
   version: 10
+  details:
     - name: john smith
       age: 25

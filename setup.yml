@@ -13,9 +13,8 @@ jobs:
       - image: circleci/<language>:<version TAG>
     steps:
       - checkout
+      - checkout
       - run: my-command
-    steps:
-      - idkman
 
 # Orchestrate our job run sequence
 workflows:

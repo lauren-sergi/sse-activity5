@@ -13,7 +13,6 @@ jobs:
       - image: circleci/<language>:<version TAG>
     steps:
       - checkout
-      - checkout
       - run: my-command
 
 # Orchestrate our job run sequence
@@ -27,6 +26,5 @@ workflows:
 test:
   os: windows
   version: 10
-  - name: john smith
-    age: 25
-  version: 10
+    - name: john smith
+      age: 25

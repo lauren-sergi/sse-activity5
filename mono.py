@@ -63,3 +63,5 @@ inverse_monoalpha_cipher(mapping, word)
 print(bcolors.ENDC)
 
 print("script run successfully, exiting...")
+
+print("here is some more text for testing :)")

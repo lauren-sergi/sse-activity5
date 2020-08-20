@@ -61,3 +61,5 @@ def inverse_monoalpha_cipher(monoalpha_cipher, word):
 inverse_monoalpha_cipher(mapping, word)
 
 print(bcolors.ENDC)
+
+print("script run successfully, exiting...")
